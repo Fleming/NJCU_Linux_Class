@@ -1,0 +1,2 @@
+rm is dangerous because without an ali, it will delete everything in a directory and there will no recycle bin to retrieve it from if you change your mind
+

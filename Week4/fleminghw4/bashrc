@@ -1,0 +1,12 @@
+alias rm=echo "oblivion"
+
+alias doc="cd ~/Documents/"
+alias tunes="cd ~/Music/"
+alias home="cd ~/Desktop"
+
+wildWest
+
+function wildWest()
+{
+		echo "wild west era"
+	}
